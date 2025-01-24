@@ -1,10 +1,4 @@
-[![HitCount](https://hits.dwyl.com/swapnanildutta/CoronavirusDatabase.svg)](https://hits.dwyl.com/swapnanildutta/CoronavirusDatabase)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-![Repo Size](https://img.shields.io/github/repo-size/swapnanildutta/CoronavirusDatabase)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 [![GitHub license](https://img.shields.io/github/license/swapnanildutta/CoronavirusDatabase)](https://github.com/swapnanildutta/CoronavirusDatabase)
 
 <!-- PROJECT LOGO -->
