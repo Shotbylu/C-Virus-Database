@@ -120,28 +120,3 @@ Contributions are what make the open source community such an amazing place to b
 <!-- Here you can add license link  -->
 
 Distributed under the License. See [`LICENSE`](https://choosealicense.com/licenses/mit/) for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Project Link: [https://github.com/swapnanildutta/CoronavirusDatabase](https://github.com/swapnanildutta/CoronavirusDatabase)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/swapnanildutta/CoronavirusDatabase.svg?style=flat
-[contributors-url]: https://github.com/swapnanildutta/CoronavirusDatabase/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/swapnanildutta/CoronavirusDatabase.svg?style=flat
-[forks-url]: https://github.com/swapnanildutta/CoronavirusDatabase/network/members
-[stars-shield]: https://img.shields.io/github/stars/swapnanildutta/CoronavirusDatabase.svg?style=flat
-[stars-url]: https://github.com/swapnanildutta/CoronavirusDatabase/stargazers
-[issues-shield]: https://img.shields.io/github/issues/swapnanildutta/CoronavirusDatabase.svg?style=flat
-[issues-url]: https://github.com/swapnanildutta/CoronavirusDatabase/issues
